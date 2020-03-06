@@ -1,4 +1,4 @@
-# Quick walkthrough giude to C programming for myself
+# Quick walkthrough guide to C programming for myself
 ### C is a perfect language to understand algorithms and data structures, moreover it can be easily integrated with Python to increase speed of bottlenecks that one can face with programming in Python
 ### How to compile and run a program
 
